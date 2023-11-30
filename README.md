@@ -1,3 +1,5 @@
+## Steps to execute the Demo
+ 
  ### 1. First step is to deploy the Strimzi operator
 
      kubectl create -f 'https://strimzi.io/install/latest?namespace=myproject' -n myproject
